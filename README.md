@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-Purpose of this Github it to document the various tasks I have performed over the span of my career. One day, I'll clean these up. I will be adding more Linux administration scripts as well ass Windows administration scripts. Can't just be a one trick pony! 
+Purpose of this Github it to document the various tasks I have performed over the span of my career. One day, I'll clean these up. I will be adding more Linux administration scripts as well as Windows administration scripts. Can't just be a one trick pony! 
 
 ;p
